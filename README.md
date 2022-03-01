@@ -4,7 +4,7 @@
 
 #### This page is fully made up of Tailwind-css along with media-queries!
 
-![](./images/signup.png)
+![](./signup.png)
 
 ### Links
 
