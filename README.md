@@ -6,11 +6,6 @@
 
 ![](./signup.png)
 
-### Links
-
-- Solution URL: (https://github.com/Sonu-Dutta/Facebook-Clone)
-- Live Site URL: (https://facebook-clone-flax.vercel.app/)
-
 ## My process
 
 ### Built with
